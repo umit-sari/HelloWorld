@@ -13,11 +13,11 @@ public class C04_StringDataTuru {
 
 
         // verilen isim ve soyismi
-        // girilen: Funda Nevruz sari database'e kaydedildi.
+        // girilen: Ümit sari database'e kaydedildi.
         //seklinde yazdirin.
 
-        String adi = "Funda";
-        String soyadi = "Nevruz Sari";
+        String adi = "Ümit";
+        String soyadi = "Sari";
         System.out.println("Girilen:" + " " + adi +" " + soyadi + " " + "databese'e kaydedildi");
 
         // "" arasındaki boşluklar konsola yazdırılan metne yansır.

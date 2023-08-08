@@ -17,11 +17,11 @@ public class C03_substring {
         System.out.println(str.substring(11));// hiclik yazdirir
         // System.out.println(str.substring(15)); // StringIndexOutOfBoundsException
         //    "Java Candir";
-        System.out.println(str.substring(3,6)); // a C
+        System.out.println(str.substring(3,6)); // a C --- sondaki indekse kadar son indeks dahil degil.
         System.out.println(str.substring(5,10)); // Candi
+
         System.out.println(str.substring(1,2)); // a
         System.out.println(str.substring(6,7)); // a
-
         // bu yazim bize istenen index'deki tek bir elementi verir
         // charAt()'e benzer ama arti bir ozelligi var
         // substring bize String verdigi icin manipulation yapmaya devam edebiliriz

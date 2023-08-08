@@ -1,7 +1,6 @@
 package Day16_methodOlusturma_Kullanma;
 public class
 
-
 C01_MethodOlusturma {
     //Soru 1- Kullanicidan input olarak verilen bir String,
     //        baslangic ve bitis indexlerine gore
