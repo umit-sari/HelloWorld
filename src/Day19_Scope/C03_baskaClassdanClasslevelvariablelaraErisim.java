@@ -5,7 +5,7 @@ public class C03_baskaClassdanClasslevelvariablelaraErisim {
         System.out.println(C02_ClassLevelVariable.strs); // Java
         System.out.println(C02_ClassLevelVariable.sayis); // 0
         System.out.println(C02_ClassLevelVariable.chrs); // a
-        C02_ClassLevelVariable obj = new C02_ClassLevelVariable();
+        C02_ClassLevelVariable obj = new C02_ClassLevelVariable(); // static olmayan variable'lara obj tanımı üzrinden ulaşttık.
         System.out.println(obj.bli); // false
         System.out.println(obj.stri); // null
         System.out.println(obj.sayii); // 23
